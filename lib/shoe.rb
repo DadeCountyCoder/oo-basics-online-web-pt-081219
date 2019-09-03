@@ -1,4 +1,4 @@
 class Shoe
- def nike
-   @nike
+ def brand
+   @brand
  end
